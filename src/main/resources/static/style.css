@@ -1,0 +1,9 @@
+
+.days div:nth-child(7) {
+    flax-basis: 100%;
+}
+
+div {
+    display: flex;
+    background-color: red;
+}
